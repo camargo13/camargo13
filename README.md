@@ -8,7 +8,7 @@ Em uma empresa de Telecom.
 Desenvolvimento web full stack 
 
 - 👯 I’m looking to collaborate em:
-Projetos da área da  tecnologia da infot
+Projetos da área da  tecnologia da informação
 - 🤔 I’m looking for help with:
 Alguns proje
 
